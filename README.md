@@ -1,4 +1,4 @@
 # basic-calculator
 Basic calculator. This site is the challange of frontend mentor website.  https://www.frontendmentor.io
 
-Go to site -> 
+Go to site -> https://otpz.github.io/basic-calculator/
